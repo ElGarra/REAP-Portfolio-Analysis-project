@@ -1,0 +1,46 @@
+Portfolio Performance Report
+===========================
+
+Returns
+-------
+ - Cumulative Returns
+       Portfolio: 365.00%
+       Benchmark: 97.18%
+
+ - Annualized Returns
+      Portfolio
+ Year  Portfolio Return  Average Return
+ 2018          0.001933        0.366233
+ 2019          0.538432        0.366233
+ 2020          1.369234        0.366233
+ 2021          0.281163        0.366233
+ 2022          0.116452        0.366233
+ 2023         -0.109817        0.366233
+
+      Benchmark
+ Year  Benchmark Return  Average Return
+ 2018          0.001212        0.225629
+ 2019          0.443649        0.225629
+ 2020          1.418288        0.225629
+ 2021         -0.241848        0.225629
+ 2022         -0.054300        0.225629
+ 2023         -0.213227        0.225629
+
+Portfolio Analysis
+------------------
+Portfolio Sharpe Ratio: 1.52
+Portfolio Volatility: 0.22
+Average Annual Portfolio Return: 36.62%
+
+
+Benchmark Analysis
+------------------
+Benchmark Sharpe Ratio (ICLN): 0.61
+Benchmark Volatility (ICLN): 0.32
+Average Annual Benchmark Return (ICLN): 22.56%
+
+
+Maximum Drawdown Analysis
+------------------------
+Maximum Drawdown Portfolio: -32.65%
+Maximum Drawdown Benchmark: -60.47%
